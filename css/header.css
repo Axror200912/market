@@ -1,0 +1,63 @@
+.header {
+    background: #DEECEC;
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header h4 {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 60px;
+    color: #589195;
+}
+
+.header h1 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 60px;
+    color: #3A415C;
+    margin-bottom: 2rem;
+}
+
+.header p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 28px;
+    color: #707686;
+    margin-bottom: 2.5rem;
+}
+
+.header button {
+    background: #589195;
+    border-radius: 38px;
+    padding: 1rem 3rem;
+    color: #fff;
+}
+
+.header .info {
+    align-items: center;
+    margin-top: 10%;
+}
+
+.header .img svg {
+    margin-left: 20rem;
+}
+
+.header .img {
+    justify-content: end;
+    display: flex;
+    flex-direction: column;
+}
+.header .info svg {
+    margin-left: 25rem;
+    margin-top: 5rem;
+}

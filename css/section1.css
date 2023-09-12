@@ -1,0 +1,24 @@
+.section1 .container{
+display: flex;
+gap: 13rem;
+justify-content: center;
+padding: 5rem 0 0 0 ;
+}
+
+.section1 .container .piece h6{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 40px;
+color: #34394C;
+}
+
+.section1 .container .piece p{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 25px;
+color: #7F8698;
+}

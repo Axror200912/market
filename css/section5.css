@@ -1,0 +1,51 @@
+.left-box {
+    background-color: #E9E6F0;
+    background-image: url(../img/section5/img-1.png);
+}
+
+.right-box {
+    background: #F7EBD9;
+    background-image: url(../img/section5/img-2.png);
+}
+
+.bottom-box {
+    width: 50%;
+    height: 32.5rem;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 5rem;
+}
+
+.bottom-box p {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 60px;
+    color: #589195;
+}
+
+.bottom-box h4 {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #34394C;
+    padding-bottom: 1rem;
+    width: 19.6rem;
+}
+
+.bottom-box span a {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-decoration-line: underline;
+    color: #000000;
+}

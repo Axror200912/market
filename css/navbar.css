@@ -1,0 +1,26 @@
+nav{
+    background: #DEECEC;
+}
+nav > .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    gap: 5rem;
+}
+ul li a{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #3f7b80;
+}
+.shop{
+    gap: 2rem;
+    display: flex;
+}
+ul li a:hover{
+    color: #063e42;
+}
